@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/107864553/211395209-acfb782f-5893-4b5a
 <br/>
 
 
-## Tecnologias Utilizadas <br id=a>
+## Tecnologias Utilizadas 🔧  <br id=a>
 
 
 ![Badge](https://img.shields.io/static/v1?label=&message=HTML&color=gray&style=for-the-badge&logo=HTML)
